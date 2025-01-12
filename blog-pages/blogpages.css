@@ -1,0 +1,13 @@
+#blog-img{
+    width: 50%;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(110, 111, 130);
+    font-size: 12px;
+    opacity: 0.8;
+}
+a:hover{
+    opacity: 0.4;
+}
